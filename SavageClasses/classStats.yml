@@ -1,0 +1,85 @@
+paladin:
+  holyRemedyCD: 12
+  handOfLightCD: 10
+  holyAuraCD: 300
+  shieldSlamCD: 20
+  rotateCD: 0.05
+  holyRemedyPotency: 12
+  handOfLightPotency: 10
+  holyAuraDuration: 8
+  slamRange: 3
+  slamDuration: 3
+  
+assassin:
+  stealthcd: 25
+  smokecd: 15
+  stealthDur: 15
+  
+bard:
+  hymnCD: 15
+  inspireCD: 30
+  melodyCD: 35
+  cleanseCD: 24
+  hymnRange: 32.0
+  inspireAmount: 6.0
+  inspirePartyAmount: 8.0
+  
+berserker:
+  rageCD: 30
+  roarCD: 5
+  headbuttCD: 5
+  rotateCD: 0.05
+  roarDuration: 3
+  roarRange: 15
+  headbuttDuration: 4
+
+gladiator:
+  hasteCD: 15
+  pocketSandCD: 15
+  whipCD: 30
+  critCD: 6
+  hamstringCD: 6
+  rotateCD: 0.05
+  
+marksman:
+  leapCD: 17
+  arrowToTheKneeCD: 12
+  marksman.poisonShotCD: 12
+  staticShotCD: 12
+  leapVelocity: 4.444444444444445
+  leapYVelocity: 1.4285714285714286
+  rotateCD: 0.75
+  
+scout:
+  thatLovingFeelingCD: 12
+  scoutsBraveryCD: 10
+  fishCD: 10
+  CAMcd: 35
+  CAMcount: 3
+  CAMslowdur: 60
+  CAMslowamp: 1
+  CAMdur: 200
+  
+triton:
+  dolphin: 5
+
+bandage:
+  CD: 4
+  allowedClasses:
+    - scout
+    - gladiator
+    - marksman
+  requiredPaper: 2
+  potency: 6
+
+gold:
+  helm: 0.85
+  chest: 0.75
+  legs: 0.75
+  boots: 0.85
+
+leather:
+  helm: 0.9
+  chest: 0.9
+  legs: 0.9
+  boots: 0.9
