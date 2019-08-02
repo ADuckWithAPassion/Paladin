@@ -1,0 +1,13 @@
+name: SavageClasses
+version: 1.0
+api-version: 1.14
+main: savageclasses.SavageClasses
+depend: [WorldGuard, WorldEdit]
+permissions:
+  savageclasses.class.change:
+    description: Allows free use of class changes.
+    default: op
+commands:
+  class:
+    description: Savage Classes
+    usage: "Usage: /<command>"
