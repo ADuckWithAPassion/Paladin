@@ -1,8 +1,7 @@
 name: SavageClasses
 version: 1.0
-api-version: 1.14
-main: savageclasses.SavageClasses
-depend: [WorldGuard, WorldEdit]
+api-version: 1.8.8
+main: apallo.savage.savageclasses.SavageClasses
 permissions:
   savageclasses.class.change:
     description: Allows free use of class changes.

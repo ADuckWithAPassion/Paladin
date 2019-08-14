@@ -1,4 +1,3 @@
-apallo\savage\savageclasses\Triton$1.class
 apallo\savage\savageclasses\Paladin$1.class
 apallo\savage\savageclasses\Berserker.class
 apallo\savage\savageclasses\Bard.class
@@ -8,13 +7,16 @@ apallo\savage\savageclasses\Stun.class
 apallo\savage\savageclasses\Paladin.class
 apallo\savage\savageclasses\Bard$Spell.class
 apallo\savage\savageclasses\Assassin.class
+apallo\savage\savageclasses\ChaosCrusader.class
 apallo\savage\savageclasses\CommandClass.class
-apallo\savage\savageclasses\Triton.class
+apallo\savage\savageclasses\Shaman.class
 apallo\savage\savageclasses\Cooldown.class
+apallo\savage\savageclasses\Shaman$TotemHeal.class
 apallo\savage\savageclasses\Restriction.class
 apallo\savage\savageclasses\SavageClasses.class
 apallo\savage\savageclasses\WaterTNT.class
 apallo\savage\savageclasses\Bandage$Bandageapply.class
+apallo\savage\savageclasses\EnforceEnchants$1.class
 apallo\savage\savageclasses\ArmorAdjustment.class
 apallo\savage\savageclasses\Bard$Hymn.class
 apallo\savage\savageclasses\Gladiator.class
